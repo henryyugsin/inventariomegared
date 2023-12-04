@@ -18,7 +18,8 @@ public class InventarioMegared {
         }else{
         IniciarSesion inises =new IniciarSesion();
         inises.setVisible(true);
-        }   
+        } 
+        
     }
     
 }
